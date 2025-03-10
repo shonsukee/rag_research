@@ -1,4 +1,4 @@
-## ★RAG Research
+# ★ RAG Research
 大学院の研究リポジトリです．
 
 ## ■ Usage
